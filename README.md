@@ -1,4 +1,4 @@
-# Exemplo-Gof-AbtractFactory
+# Exemplo-Gof-AbstractFactory
    Esse repositório contém um exemplo de uma aplicação simples utilizando o padrão GOF Abstract Factory.
 
 ### **Descrição do problema apresentado:**
