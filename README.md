@@ -1,7 +1,7 @@
 # Exemplo-Gof-AbtractFactory
     Esse repositório contém um exemplo de uma aplicação simples utilizando o padrão GOF Abstract Factory.
 
-##**Descrição do problema apresentado:**
+## **Descrição do problema apresentado:**
 
     Considere os seguintes conceitos do mundo real: pizzaria, pizzaiolo,
     pizza, consumidor. Considere ainda que em uma determinada pizzaria,
@@ -18,5 +18,5 @@
     de calabresa ou presunto). Complemente a solução com mais este
     componente.
 
-##**Observação:**
+## **Observação:**
     Para uma melhor interação do exemplo com o usuário, foi adiciconada a classe ManipuladoradeData, que não corresponde ao padrão Abstract Factory proposto.
